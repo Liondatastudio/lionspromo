@@ -1,0 +1,19 @@
+{
+    "Version": 1,
+
+    "AppsList-Android": [   
+        {
+            "AppTitle": "Sabertooth Tiger Simulator",
+            "IconUrl": "https://raw.githubusercontent.com/Liondatastudio/lionspromo/main/splash-07 512.png",
+            "Id": "com.gameloft.android.ANMP.GloftA8HM"
+        }
+    ],
+
+    "AppsList-iOS": [
+        {
+            "AppTitle": "Sabertooth Tiger Simulator",
+            "IconUrl": "https://raw.githubusercontent.com/Liondatastudio/lionspromo/main/1024.blue.png",
+            "Id": "980976040"
+        }
+    ]
+}
