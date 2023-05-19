@@ -1,0 +1,1 @@
+{"gameName":"Anime","storeLink":"https://play.google.com/store/apps/details?id=com.lionjam.anime.girl.high.school.life","imageUrls":["https://raw.githubusercontent.com/Liondatastudio/lionspromo/main/1024.blue.png"]}
